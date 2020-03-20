@@ -1,5 +1,5 @@
 public class word {
     public static void main(String[] args) {
-        System.out.print("");
+        System.out.print("你好");
     }
 }
